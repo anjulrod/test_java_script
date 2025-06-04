@@ -81,6 +81,11 @@
 // console.log(country.split(""))
 
 
-let num=5
-for(let i=3; i>0; i--)
-    console.log(i)
+let num=2
+if(num%2 ===0){
+    console.log(num, "even")
+}
+else{
+    console.log(num, "odd")
+}
+    
