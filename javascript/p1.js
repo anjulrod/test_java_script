@@ -2,10 +2,10 @@
 
 // redeclared variable in var.....
 
-// var fname= "anjul";
-// var fname= "ankit";             
-// var fname= "shlok";
-// console.log(fname)
+var fname= "anjul";
+var fname= "ankit";             
+var fname= "shlok";
+console.log(fname)
 
 // example of number datatype.....
 
@@ -43,5 +43,5 @@
 
 let num1 = 200
 let num2 = 100
-// console.log("The sum of "+ num1 + " and "+ num2 + " is  "+ sum)
+console.log("The sum of "+ num1 + " and "+ num2 + " is  "+ (num1+num2))
 // console.log(`The sum of ${num1} and ${num2} is ${num1 + num2}`)

@@ -51,9 +51,34 @@
 // let text= fruits.join(" * ")
 // console.log(text)
 
-let num= [2,3,4,5,6,7]
- console.log(num.reverse())
+// let num= [2,3,4,5,6,7]
+//  console.log(num.reverse())
 
  
- let num_a =Array(3).fill("Anjul")
- console.log(num_a)
+//  let num_a =Array(3).fill("Anjul")
+//  console.log(num_a)
+
+// let value="abcd"
+// let num="1234"
+// let output= value + num
+// console.log(output)
+
+// const student={
+//     fullName:"Anjul Rod",
+//     age: 36,
+//     married: true,
+// }
+//     console.log(student)
+
+
+//     let a =5
+//     let b=2
+//     console.log("a++=", a++, "& b++ =", b++)
+
+//     let isLoggedIn = true;
+// console.log(!isLoggedIn);
+    
+let num =3
+if(!(num% 2 ===0)){
+console.log(num, "odd")
+}

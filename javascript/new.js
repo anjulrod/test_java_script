@@ -81,11 +81,39 @@
 // console.log(country.split(""))
 
 
-let num=2
-if(num%2 ===0){
-    console.log(num, "even")
-}
-else{
-    console.log(num, "odd")
-}
-    
+// let num=2
+// if(num%2 ===0){
+//     console.log(num, "even")
+// }
+// else{
+//     console.log(num, "odd")
+// }
+
+//     let num=0
+//     if(num>0){
+// console.log(num, "num is possitive")
+//     }
+//     else if (num<0) {
+//         console.log(num, "num is negetive")
+//     } else {
+//         console.log(num, "num is equal to zeero ")
+//     }
+
+//     let age =15
+//     let result = age>18 ? "adult" : "not adult";
+//     console.log(result)
+
+    // let age= 15
+    // result= age>10 ? "true": "false"
+    // console.log(result) 
+//  let num =51
+//  let score = num >50 ? "pass": "fail"
+//  console.log(score)
+
+let num= 15
+result= num>10 ? "High" : "low"
+console.log(result)
+
+let age= 19
+result = age>18 ? "eligible" : "not eligible"
+console.log(result)

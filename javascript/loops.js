@@ -82,6 +82,7 @@ while(table<=10){
     console.log("4 x "+ table + "=" + (4*table))
     table++
 }
+//
 
 
 
