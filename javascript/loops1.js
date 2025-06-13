@@ -119,13 +119,13 @@ for(let i=0; i<alph.length;i++){
             console.log(color[colors]);
             
         }
-let num= [20,30,40,50]
-let result=0
-for(let i=0; i<num.length; i++){
-    result+=num[i]
-    console.log(result);
+// let num= [20,30,40,50]
+// let result=0
+// for(let i=0; i<num.length; i++){
+//     result+=num[i]
+//     console.log(result);
     
-}
+// }
     
 let x=["ind", "Pak", "New","Aus"]
 for(let i=0; i<x.length; i++){
@@ -153,8 +153,33 @@ function greet(name){
 // let res=add(1,3)
 // console.log(res);
 
- function value(name){
-    console.log(name);
- }
-value("Anjul")    
+//  function value(name){
+//     console.log(name);
+//  }
+// value("Anjul") 
+
+//   function split(value){
+// return value.split("")
+//   }
+//  let res =split("my fname is anjul")
+//  console.log(res);
  
+// let num=3
+// for(table=1; table<=10; table++){
+    // console.log(num + "x" + table + "=" +(num*table));
+// }
+    
+// function greet(name) {
+//   console.log("Hello, " + name);
+// }
+
+// setTimeout(greet, 3000, "Anjul");
+
+// const user = { name: "Anjul", age: 25 };
+// const jsonString = JSON.stringify(user);
+// console.log(jsonString);  // '{"name":"Anjul","age":25}'
+
+function add (a, b){
+return a+b
+}
+console.log(add(2,5));
